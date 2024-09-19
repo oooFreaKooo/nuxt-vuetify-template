@@ -1,7 +1,6 @@
 {
-  "name": "aom-retold-xml-editor",
+  "name": "nuxt-3-vuetify-template",
   "license": "MIT",
-  "private": true,
   "type": "module",
   "scripts": {
     "dev": "nuxi dev",
@@ -30,7 +29,6 @@
     "@nuxt/image": "^1.8.0",
     "gsap": "^3.12.5",
     "three": "^0.168.0",
-    "vue-typed-js": "^0.1.2",
     "vuetify-nuxt-module": "^0.18.2"
   },
   "packageManager": "yarn@4.4.1"

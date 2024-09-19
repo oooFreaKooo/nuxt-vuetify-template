@@ -3311,32 +3311,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"aom-retold-xml-editor@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "aom-retold-xml-editor@workspace:."
-  dependencies:
-    "@mdi/font": "npm:^7.4.47"
-    "@nuxt/eslint": "npm:^0.5.7"
-    "@nuxt/image": "npm:^1.8.0"
-    "@types/three": "npm:^0.168.0"
-    "@vueuse/core": "npm:^11.0.3"
-    "@vueuse/nuxt": "npm:^11.0.3"
-    eslint: "npm:^9.10.0"
-    gsap: "npm:^3.12.5"
-    nuxt: "npm:^3.13.1"
-    nuxt-particles: "npm:^0.3.0"
-    postcss: "npm:^8.4.45"
-    postcss-loader: "npm:^8.1.1"
-    sass: "npm:1.77.6"
-    sass-loader: "npm:^12.4.0"
-    three: "npm:^0.168.0"
-    typescript: "npm:~5.5"
-    vue-tsc: "npm:^2.1.6"
-    vue-typed-js: "npm:^0.1.2"
-    vuetify-nuxt-module: "npm:^0.18.2"
-  languageName: unknown
-  linkType: soft
-
 "aproba@npm:^1.0.3 || ^2.0.0":
   version: 2.0.0
   resolution: "aproba@npm:2.0.0"
@@ -7443,6 +7417,31 @@ __metadata:
   languageName: node
   linkType: hard
 
+"nuxt-3-vuetify-template@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "nuxt-3-vuetify-template@workspace:."
+  dependencies:
+    "@mdi/font": "npm:^7.4.47"
+    "@nuxt/eslint": "npm:^0.5.7"
+    "@nuxt/image": "npm:^1.8.0"
+    "@types/three": "npm:^0.168.0"
+    "@vueuse/core": "npm:^11.0.3"
+    "@vueuse/nuxt": "npm:^11.0.3"
+    eslint: "npm:^9.10.0"
+    gsap: "npm:^3.12.5"
+    nuxt: "npm:^3.13.1"
+    nuxt-particles: "npm:^0.3.0"
+    postcss: "npm:^8.4.45"
+    postcss-loader: "npm:^8.1.1"
+    sass: "npm:1.77.6"
+    sass-loader: "npm:^12.4.0"
+    three: "npm:^0.168.0"
+    typescript: "npm:~5.5"
+    vue-tsc: "npm:^2.1.6"
+    vuetify-nuxt-module: "npm:^0.18.2"
+  languageName: unknown
+  linkType: soft
+
 "nuxt-particles@npm:^0.3.0":
   version: 0.3.0
   resolution: "nuxt-particles@npm:0.3.0"
@@ -9702,13 +9701,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typed.js@git+https://github.com/mattboldt/typed.js.git":
-  version: 2.1.0
-  resolution: "typed.js@https://github.com/mattboldt/typed.js.git#commit=f0759c1dc054a2d6743862d5331f03e49f9845d7"
-  checksum: 10c0/43beab8e86b2b4075cd00aa107af861e994fc022b1baed1b5ae780de97581f6742c94e182d2de6144b5e8b19079b6a48683efc0624592ffb45bc5821393597e1
-  languageName: node
-  linkType: hard
-
 "typescript@npm:~5.5":
   version: 5.5.4
   resolution: "typescript@npm:5.5.4"
@@ -10416,15 +10408,6 @@ __metadata:
   bin:
     vue-tsc: ./bin/vue-tsc.js
   checksum: 10c0/6a0676f5ef53cabd142a43ee593d34332ad6f807159861c096c94851a2bd07901294f9e6a0422de8d215d558b54d5a219d0d6626fea626b03f951e72a74026bd
-  languageName: node
-  linkType: hard
-
-"vue-typed-js@npm:^0.1.2":
-  version: 0.1.2
-  resolution: "vue-typed-js@npm:0.1.2"
-  dependencies:
-    typed.js: "git+https://github.com/mattboldt/typed.js.git"
-  checksum: 10c0/4e2c4f49f6f7573dfcf981751385791bd1fbadd3407066ef7b864d0aee58157af6632b0598574161df36b4ed1e51a5e5378cfc55fa984cc0c45ed624360cec68
   languageName: node
   linkType: hard
 
