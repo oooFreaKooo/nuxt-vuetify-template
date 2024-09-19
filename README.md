@@ -11,6 +11,34 @@ This is a Nuxt 3 starter template that comes with the following packages pre-ins
 
 Additionally, there is an example of a basic portfolio implementation included.
 
+![alt text](image.png)
+
+```
+📦components
+ ┣ 📂Animation
+ ┃ ┣ 📜ModelRender.vue
+ ┃ ┣ 📜Particles.vue
+ ┃ ┗ 📜TypedText.vue
+ ┣ 📂Card
+ ┃ ┣ 📜ProjectCard.vue
+ ┃ ┗ 📜SkillsCard.vue
+ ┣ 📂Form
+ ┃ ┗ 📜ContactForm.vue
+ ┣ 📂Layout
+ ┃ ┣ 📜AppFooter.vue
+ ┃ ┗ 📜AppHeader.vue
+ ┗ 📂Section
+ ┃ ┣ 📜About.vue
+ ┃ ┣ 📜Projects.vue
+ ┃ ┣ 📜Skills.vue
+ ┃ ┗ 📜Timeline.vue
+```
+
+These components can be used to build and customize a simple portfolio layout with sections for about, projects, skills, and a timeline.
+
+
+
+
 ## Installation
 
 To get started, follow these steps:

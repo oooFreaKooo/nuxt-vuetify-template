@@ -5,12 +5,12 @@
   },
   "particles": {
     "color": {
-      "value": "#FFFFE0"
+      "value": "rgba(255, 255, 204, 0.2)"
     },
     "links": {
-      "color": "#FFFFE0",
+      "color": "rgba(255, 255, 204, 0.5)",
       "enable": true,
-      "opacity": 0.5,
+      "opacity": 0.3,
       "distance": 150
     },
     "move": {
